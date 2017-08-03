@@ -1,7 +1,7 @@
 {
   "name": "react-native-twitter-signin",
   "description": "Social Signin with Twitter",
-  "version": "0.41.2",
+  "version": "0.41.3",
   "homepage": "https://github.com/rakannimer/react-native-twitter-signin.git",
   "repository": "git@github.com:rakannimer/react-native-twitter-signin.git",
   "keywords": [
